@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Smitt\Desktop\Lab 3 ELEC 301\Cascode for varying amplitude.asc
+
+R2: both pins shorted together -- ignoring.
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Nov 15 19:42:37 2022
+Total elapsed time: 0.105 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2042
+traniter = 2036
+tranpoints = 1018
+accept = 1018
+rejected = 0
+matrix size = 13
+fillins = 3
+solver = Normal
+Matrix Compiler1: 888 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 1.04 KB object code size  0.1/0.1/[0.1]
+

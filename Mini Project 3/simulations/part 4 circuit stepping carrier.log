@@ -1,0 +1,23 @@
+Circuit: * C:\Users\Smitt\Desktop\Lab 3 ELEC 301\part 4 circuit stepping carrier.asc
+
+Direct Newton iteration for .op point succeeded.
+.step x=0.01
+.step x=0.095
+
+Date: Fri Nov 18 21:46:25 2022
+Total elapsed time: 36.237 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 11180997
+traniter = 11180991
+tranpoints = 4194286
+accept = 2685400
+rejected = 1508886
+matrix size = 17
+fillins = 0
+solver = Normal
+Matrix Compiler1: 722 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 1.22 KB object code size  0.1/0.2/[0.1]
+

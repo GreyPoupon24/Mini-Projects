@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Smitt\Desktop\Lab 3 ELEC 301\part 4 circuit.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Nov 18 18:58:51 2022
+Total elapsed time: 16.309 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 9979355
+traniter = 9979349
+tranpoints = 3871996
+accept = 2423116
+rejected = 1448880
+matrix size = 17
+fillins = 0
+solver = Normal
+Matrix Compiler1: 722 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 1.22 KB object code size  0.1/0.2/[0.1]
+
