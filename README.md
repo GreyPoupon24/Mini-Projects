@@ -1,1 +1,1 @@
-My amplifier design projects from ELEC 301
+My BJT amplifier design projects from ELEC 301
