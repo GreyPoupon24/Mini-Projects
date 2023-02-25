@@ -1,0 +1,23 @@
+Circuit: * C:\Users\Smitt\Desktop\ELEC 301\mp2\mp2 task 1B i) 2N3904 profiling.asc
+
+Error on line 4 : vbe base 0 vbe
+	 Unknown parameter "vbe"
+Vbe: Missing value, assumed 0V @ DC
+
+Date: Fri Oct 28 21:32:27 2022
+Total elapsed time: 0.174 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 204
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 5
+fillins = 0
+solver = Normal
+Matrix Compiler1: 114 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 301 bytes object code size  0.1/0.1/[0.1]
+

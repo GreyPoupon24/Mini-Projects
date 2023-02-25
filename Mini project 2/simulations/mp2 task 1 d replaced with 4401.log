@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Smitt\Desktop\ELEC 301\mp2\mp2 task 1 d replaced with 4401.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Oct 26 15:41:15 2022
+Total elapsed time: 0.240 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 200053
+traniter = 200046
+tranpoints = 100024
+accept = 100024
+rejected = 0
+matrix size = 5
+fillins = 0
+solver = Normal
+Matrix Compiler1: 248 bytes object code size  0.1/0.0/[0.0]
+Matrix Compiler2:      31 opcodes  0.1/[0.1]/0.1
+
